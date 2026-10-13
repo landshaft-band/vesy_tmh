@@ -4,12 +4,12 @@
 
 // HX711 пины
 #define HX711_DT 14
-#define HX711_SCL 12
+#define HX711_SCL 27
 #define HX711_GAIN HX_GAIN128_A
 
 // WiFi
-#define WIFI_SSID      "mgts_143"
-#define WIFI_PASSWORD  "89164922249"
+#define WIFI_SSID      ""
+#define WIFI_PASSWORD  ""
 #define WIFI_HOSTNAME  "vesy"
 
 // Калибровка
